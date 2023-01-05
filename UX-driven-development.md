@@ -2,9 +2,9 @@
 
 A fundamental principle of agile is to remain flexible and be adaptable to changing requirements. However, it is important that requirements, although changeable, are well defined. Vague, incomplete or unnecessary requirements can result in confusion and inefficient usage of time.
 
-To give a simple example, a team decides to include a new feature in its UI based on reasoning that it may be useful to users. Although a small feature, it requires time from frontend, backend and data teams to plan and implement. It is later decided that the feature is unnecessary, and more time is required to remove it.
+To give a basic example, a team decides to include a new feature in its UI based on reasoning that it may be useful to users. Although a small feature, it requires time from frontend, backend and data teams to plan and implement. The feature goes unused, and a subsequent decision is made to remove it, requiring more time.
 
-In an agile environment, where the outcome of decisions is uncertain, some inefficiency like this is inevitable and part of a products evolution. However, it is important to minimize this inefficiency as it impacts on cost and scheduling.
+In an agile environment, where the outcome of decisions is uncertain, some inefficiency like this is inevitable and part of a products evolution. However, it is important to minimize this inefficiency as it impacts costs and scheduling.
 
 A product is developed for end users and their requirements should define its growth. By including UX design at the core of a teams decision making process, the needs of users are more accurately understood and represented. Subsequently, more accurate requirements can be defined.
 
