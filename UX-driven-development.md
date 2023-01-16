@@ -2,7 +2,7 @@
 
 A fundamental principle of agile is to remain flexible and be adaptable to changing requirements. However, it is important that requirements, although changeable, are well defined. Vague, incomplete or unnecessary requirements can result in confusion and inefficient usage of time.
 
-To give a basic example, a team decides to include a new feature in its UI based on reasoning that it may be useful to users. Although a small feature, it requires time from frontend, backend and data teams to plan and implement. The feature goes unused, and a subsequent decision is made to remove it, requiring more time.
+To give a basic example, a team decides to include a new feature in it's UI based on reasoning that it may be useful to users. Although a small feature, it requires time from frontend, backend and data teams to plan and implement. The feature goes unused, and a subsequent decision is made to remove it, which requires more time.
 
 In an agile environment, where the outcome of decisions is uncertain, some inefficiency like this is inevitable and part of a products evolution. However, it is important to minimize this inefficiency that increases costs and can impact scheduling.
 
