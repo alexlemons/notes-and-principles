@@ -1,0 +1,15 @@
+[user]
+  email = alexlemons1@gmail.com
+
+[alias]
+  s = status -sb
+  lb = branch -a
+  l = log -6
+  a = add
+  c = commit -m
+  ce = commit -a --allow-empty-message -m ''
+  p = push
+
+[push]
+  autoSetupRemote = true
+  default = simple
